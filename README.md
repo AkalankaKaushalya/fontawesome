@@ -65,8 +65,9 @@ To use the FontAwesome icons in your project, include the following links in you
 <link href="https://cdn.jsdelivr.net/gh/AkalankaKaushalya/fontawesome@main/css/v4-shims.min.css" rel="stylesheet" type="text/css" />
 <link href="https://cdn.jsdelivr.net/gh/AkalankaKaushalya/fontawesome@main/css/v5-font-face.css" rel="stylesheet" type="text/css" />
 <link href="https://cdn.jsdelivr.net/gh/AkalankaKaushalya/fontawesome@main/css/v5-font-face.min.css" rel="stylesheet" type="text/css" />
-
-//------------------------------------------JS Libry -------------------------------------------------------------------------//
+```
+### JS Icon CDN
+```html
 <!-- All Icons -->
 <script src="https://cdn.jsdelivr.net/gh/AkalankaKaushalya/fontawesome@main/js/all.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/AkalankaKaushalya/fontawesome@main/js/all.min.js"></script>
